@@ -1,3 +1,11 @@
+Build overlays
+Just execute following commands:
+Code:
+chmod u+x build/build.sh
+build/build.sh
+
+
+
 This projects includes hardware-specific overlay changes, and an app which selects it dynamically
 
 Here are the list of changes:
